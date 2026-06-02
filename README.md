@@ -12,8 +12,8 @@ This package avoids that broken preset path by grabbing the real X-55 stick and
 throttle, then exposing one temporary virtual Xbox 360-style gamepad to the
 game.
 
-This repo is intentionally separate from the TrackIR package. It only handles
-the X-55 Reforger joystick workaround.
+This repo only handles the X-55 Reforger joystick workaround. TrackIR setup
+lives in a separate package.
 
 ## Requirements
 
