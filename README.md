@@ -175,4 +175,4 @@ the code.
 
 Repository scripts and documentation are released under the [MIT License](LICENSE).
 
-`python-evdev` is a separate project with its own license.
+`python-evdev` has its own license.
